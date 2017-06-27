@@ -1,1 +1,1 @@
-#rnn
+In this section we will build RNNs that can be used to generate text sequence and stock price prediction based on historical input data. We will use real market data in order to predict future Apple stock prices using LSTM model. For text generation we will use Sherlock Holmes classic noves to generate wacky sentences based on the nove. 
